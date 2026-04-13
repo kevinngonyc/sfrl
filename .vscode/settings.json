@@ -1,6 +1,0 @@
-{
-    "python.analysis.autoImportCompletions": true,
-    "python.analysis.extraPaths": [
-        "./stable-retro"
-    ]
-}
