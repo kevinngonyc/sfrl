@@ -23,6 +23,7 @@ cycler==0.12.1
 debugpy==1.8.20
 decorator==5.2.1
 defusedxml==0.7.1
+evdev==1.9.3
 executing==2.2.1
 Farama-Notifications==0.0.4
 fastjsonschema==2.21.2
@@ -30,6 +31,7 @@ filelock==3.25.2
 fonttools==4.62.1
 fqdn==1.5.1
 fsspec==2026.3.0
+future==1.0.0
 grpcio==1.80.0
 gymnasium==1.2.3
 h11==0.16.0
@@ -108,11 +110,12 @@ ptyprocess==0.7.0
 pure_eval==0.2.3
 pycparser==3.0
 pygame-ce==2.5.7
-pyglet==1.5.31
+pyglet==1.5.29
 Pygments==2.20.0
 pyparsing==3.3.2
 python-dateutil==2.9.0.post0
 python-json-logger==4.1.0
+python-xlib==0.33
 PyYAML==6.0.3
 pyzmq==27.1.0
 referencing==0.37.0
